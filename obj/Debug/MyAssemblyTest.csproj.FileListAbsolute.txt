@@ -1,0 +1,12 @@
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyAssemblyTest.exe.config
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyAssemblyTest.exe
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyAssemblyTest.pdb
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.csproj.CoreCompileInputs.cache
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.exe
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.pdb
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyClassLibrary.dll
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\bin\Debug\SalaryLibrary.dll
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\bin\Debug\MyClassLibrary.pdb
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\bin\Debug\SalaryLibrary.pdb
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.csprojAssemblyReference.cache
+C:\Users\janhavim\source\repos\MyAssemblyTest\MyAssemblyTest\obj\Debug\MyAssemblyTest.csproj.CopyComplete
